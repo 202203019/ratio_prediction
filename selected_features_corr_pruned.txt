@@ -1,0 +1,12 @@
+ratio_ret_1m
+ratio_ret_5m
+ratio_ret_15m
+ratio_roll_mean_5
+ratio_roll_std_5
+ratio_roll_std_20
+ratio_roll_std_60
+ratio_zscore_5
+ratio_zscore_20
+ratio_zscore_60
+ratio_vol_20
+minute_of_day
